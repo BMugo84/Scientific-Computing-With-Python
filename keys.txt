@@ -1,0 +1,6 @@
+apikey = qQswyDHtuXhEAuLD1HAyKueBw
+apikeysecret = NmDxx5j7pYhcfONV2olJhBuCYNL8eCds8z0PnQEHvF2mUueoLC
+bearer token = AAAAAAAAAAAAAAAAAAAAABEonQEAAAAA7mlodK7YJP8IP3LLQw9rTBrPtLs%3DubVLqgW3YGX5b9ufJfljF3Onm7yXjIvmBNeQ2Z7SkuKXYe0pjH
+
+access token = 1613257988583596036-iOqykK0XeNn3iBSBhrAIsIa4BrMfhX
+access token secret = SUzfMpLx1uF3jafnPdxcmKJqoqzmpnXadehISW0tMoOmw
